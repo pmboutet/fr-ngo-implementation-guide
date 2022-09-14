@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'French template documentation'
+copyright = '2022, Salesforce.com'
+author = 'PM Boutet'
 
 release = '0.1'
 version = '0.1.0'
